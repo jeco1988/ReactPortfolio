@@ -9,7 +9,7 @@ function Resume() {
 
         <a
           className="button is-primary"
-          href={process.env.PUBLIC_URL + "/JackEconomosResume2023.pdf"}
+          href={"https://github.com/jeco1988/reactportfolio/blob/main/public/img/JackEconomosResume2023.pdf"}
           target="_blank" rel="noreferrer"
         >
           <span className="icon">
