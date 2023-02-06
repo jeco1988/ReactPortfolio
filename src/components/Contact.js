@@ -90,7 +90,8 @@ function Contact() {
 							<p className="error-text">{errorMessage}</p>
 						</div>
 					)}
-					<button type="submit">Submit</button>
+					<br></br>
+					<button className="button is-small is-primary" data-testid="button" type="submit">Submit</button>
 				</form>
 			</div>
 		</section>
