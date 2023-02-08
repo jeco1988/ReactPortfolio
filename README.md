@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Description](#Description)
-- [Deployed Application](#Deployedapplication)
+- [Link](#Link)
 - [Screenshot](#Screenshot)
 - [Technology](#Technology)
 - [Installation](#Installation)
@@ -14,9 +14,9 @@
 
 This is a React portfolio website which utilises the `Create React App` bootstrap. It has been designed to showcase 6 projects from my portfolio, a brief section about me, and a downloadable version of my current resume.
 
-## Deployed Application:
+## Link:
 
-https://jeco1988.github.io/reactportfolio/
+Link to deployed applicatio: https://jeco1988.github.io/reactportfolio/
 
 ## Screenshot:
 
