@@ -16,7 +16,7 @@ This is a React portfolio website which utilises the `Create React App` bootstra
 
 ## Link:
 
-Link to deployed applicatio: https://jeco1988.github.io/reactportfolio/
+Link to deployed application: https://jeco1988.github.io/reactportfolio/
 
 ## Screenshot:
 
